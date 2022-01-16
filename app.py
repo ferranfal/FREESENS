@@ -17,7 +17,7 @@ def main():
        
    # titulo de la app
     st.title('FREESENS')
-    st.header('FREE SOIL SENSOR VIWER')
+    st.header('FREE SOIL SENSOR VIEWER')
     
     
     # Subir los datos en csv
